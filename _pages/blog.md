@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blog
-permalink: /blog
+permalink: /blog/
 ---
 
 ## My Blog Posts
