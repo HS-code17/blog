@@ -1,5 +1,8 @@
-_site
-.sass-cache
-.jekyll-cache
 .jekyll-metadata
-vendor
+.htaccess
+.DS_Store
+.sass-cache
+Gemfile.lock
+_site/
+_drafts/
+*.swp
