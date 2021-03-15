@@ -26,3 +26,5 @@ highlighter: rouge
 gems:
   - jekyll-sitemap
   - jemoji
+  
+gem "github-pages", group: :jekyll_plugins
