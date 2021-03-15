@@ -1,5 +1,5 @@
 - title: Blog
-  url: /blog
+  baseurl: /blog
 
 - title: Projects
   url: /projects
