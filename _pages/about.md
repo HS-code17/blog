@@ -1,7 +1,7 @@
 ---
 layout: info
 title: about me
-permalink: /about/
+permalink: /about
 ---
 
 I'm passionate about software development.
