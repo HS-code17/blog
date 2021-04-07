@@ -17,6 +17,4 @@ Get in touch!
 hanisarduk93atgmail.com
 <br>
 
-## Github:
-
-### https://github.com/HS-code17
+## [Github](https://github.com/hanycopes)
