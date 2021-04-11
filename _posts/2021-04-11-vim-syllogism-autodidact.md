@@ -26,9 +26,13 @@ Vim provides these commands for searching files:
 
 :sp (horizontal split)
 
-:cd %:p:h ( this will create the file in the directory of the file in which you opened vim. To adjust for this, you can change the current working directory as follows)
+:cd %:p:h ( this will create the file in the directory of
+ the file in which you opened vim. To adjust for this, you
+ can change the current working directory as follows)
 
-:pwd (this will create the file in the directory of the file in which you opened vim. To adjust for this, you can change the current working directory as follows)
+:pwd (this will create the file in the directory of the
+ file in which you opened vim. To adjust for this, you can
+ change the current working directory as follows)
 
 :u or u (undo in vim)
 
@@ -40,7 +44,10 @@ Vim provides these commands for searching files:
 
 ## Syllogism
 
-1. : a deductive scheme of a formal argument consisting of a major and a minor premise and a conclusion (as in "every virtue is laudable; kindness is a virtue; therefore kindness is laudable")
+1. : a deductive scheme of a formal argument consisting
+ of a major and a minor premise and a conclusion (as in
+ "every virtue is laudable; kindness is a virtue;
+ therefore kindness is laudable")
 
 ## Autodidact
 
