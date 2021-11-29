@@ -1,5 +1,5 @@
 # blog
 
-My blog page as well as my main site for the time being.
+This is my personal blog page where I share what I have learnt in regards to tech,programming,math,science, and other fields.
 
-The theme is originally from Micah Cowell, and I will try to improve it.
+The theme is originally from Micah Cowell.
